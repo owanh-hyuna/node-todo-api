@@ -1,0 +1,27 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "description": "Node.js TODO API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/owanh-hyuna/node-todo-api.git"
+  },
+  "keywords": [
+    "todo",
+    "api",
+    "mongodb"
+  ],
+  "author": "Owan Hunte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owanh-hyuna/node-todo-api/issues"
+  },
+  "homepage": "https://github.com/owanh-hyuna/node-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
